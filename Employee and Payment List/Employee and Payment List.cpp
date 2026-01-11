@@ -1,5 +1,3 @@
-// Gregory Linville
-
 #include <string>
 #include<iostream>
 #include <vector>
