@@ -1,5 +1,4 @@
 #pragma once
-// Gregory Linville
 
 #include <string>
 using namespace std;
