@@ -1,7 +1,3 @@
-// Gregory Linville
-// December 7
-// Exam 2
-
 #include <string>
 #include "Employee.h"
 using namespace std;
